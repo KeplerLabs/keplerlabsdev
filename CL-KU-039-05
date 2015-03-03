@@ -1,9 +1,3 @@
-SMOTD fini
-Finition des cannals de chat
-Finition de création des groupes
-Finition de port des maps
-Finition de modifications des groupes
-Modifications du rang au displayname
 currency nanites > dollars
 Finition d'ajout de time is money
 bugfixe nanites
@@ -11,4 +5,13 @@ changements du cannal OOC:
 -la commande passe de ooc a hrp
 -le tag passe de [OOC] a [HRP]
 Nouvelle map Kepler Universe
-Continution de port des maps
+Implémentation de la fonction "s'asseoir"
+Le système d'authentification supporte maintenant l'UUID.
+Implémentation d'un système de backup de map automatique
+Implémentation d'un système de portails
+Ajout d'une API
+Ré implémentation des slot machines de Minaria 2
+Implémentation des CTF / War games
+Implémentation d'un système de spectate
+Implémentation d'un nouveau système économique
+Implémentation d'un nouveau système de distributeurs bancaire
