@@ -29,3 +29,6 @@ ajouter l'anpe (mettre des boutons qui éxécuterons des commandes comme changer
 dire qu'il travail dans un job légal et lui attribuer une permission specifique pour acceder au qg du job vu qu'il aura un groupe
 faire l'accès avec block door même ou quand on se rapproche ca ouvre auto)
 ajouter la permission pour faire /leavejob qui quittera le job
+
+faire en sorte que les commercant par exemple vendeur de pain( oui bon... ) met un panneau devant son commerce comme quoi ils achètent du pain
+et justement iaura un qg camionneur qui livrera du pain mais faudra d'abord planter du blé qu'ils rammasseront et crafteront en pain
