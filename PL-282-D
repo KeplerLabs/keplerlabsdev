@@ -1,6 +1,7 @@
 --En développement--
 Ajout de l'ABS, absorbe la vie de l'ennemie mais ne fait cependant aucun dégât
-l'IEM détruit désormait l'effet slowness
+Ajout du rayon ralentissant (peut être contré en activant une IEM)
+l'IEM détruit désormait l'effet de ralentissement (potions et rayon ralentissant)
 Gros changements et gros buffs à "Nouveauté surprise et secrette"
 BOUCLIERS ! Avec amélioration ! (enfin !) (en dev)
 
