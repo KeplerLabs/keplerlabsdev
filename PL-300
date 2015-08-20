@@ -1,0 +1,13 @@
+Drone de vie renommé en Ubercharge (id: ubc)
+LF5 et LF5 K id renommé en 1171lf5 et 1171lf5k
+Nerf LF5 & LF5K
+Buff bouclier quantum
+Nerf bouclier de nanites
+Nerf bouclier prismatique
+changement de l'id du weaker (id: wkr)
+ajout du message de prorixmité pour l'ubc.
+
+bugfixes:
+-les niveaux ne s'affichaient pas dans le tchat
+-les messages d'iem etc ne s'affichaient pas dans le tchat
+-id numérique avec la MP1 et DS1
